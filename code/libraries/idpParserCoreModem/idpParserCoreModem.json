@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade,idpGlobals,idpNotifications,idpCollections",
+    "description": "Parses core modem (Inmarsat-reserved) messages",
+    "name": "idpParserCoreModem",
+    "visibility": "system"
+}
