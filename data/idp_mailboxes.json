@@ -1,0 +1,31 @@
+{
+    "items": [],
+    "name": "idp_mailboxes",
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "access_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "password",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "message_definitions",
+            "ColumnType": "blob",
+            "PK": false
+        }
+    ]
+}
