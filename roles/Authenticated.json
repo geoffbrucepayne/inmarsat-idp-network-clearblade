@@ -1,0 +1,61 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "Name": "Authenticated",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "idpSendMessage"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "Items": [],
+                "Level": 15,
+                "Name": "idp_mobiles"
+            },
+            {
+                "Columns": [],
+                "Items": [],
+                "Level": 1,
+                "Name": "idp_rest_api_calls"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "Roles": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
