@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "log,idpGlobals,idpCollections,idpMessagingApi,idpParserCoreModem,idpUnitTestMessages",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "idpUnitTest",
+    "params": [
+        "{}"
+    ],
+    "run_user": ""
+}
