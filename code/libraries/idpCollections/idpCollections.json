@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade,idpGlobals,BufferNodeJs",
+    "description": "Functions for interfacing with ClearBlade collections specific to IDP",
+    "name": "idpCollections",
+    "visibility": "system"
+}
