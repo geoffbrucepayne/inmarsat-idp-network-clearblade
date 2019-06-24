@@ -1,6 +1,6 @@
 {
-    "idp_mailboxes": "c6c586d10b82fed69c91edd2836b",
-    "idp_mobiles": "f2c786d10be8be8f8baee3d2d92b",
-    "idp_raw_messages": "86d386d10bfc949baae0d2fdbc01",
-    "idp_rest_api_calls": "cccf86d10b86f4f5b3f0c7f79cd901"
+    "idp_mailboxes": "<yourTokenHere>",
+    "idp_mobiles": "<yourTokenHere>",
+    "idp_raw_messages": "<yourTokenHere>",
+    "idp_rest_api_calls": "<yourTokenHere>"
 }
