@@ -1,0 +1,37 @@
+{
+    "asset_types": [
+        "Code Libraries",
+        "Code Services",
+        "Collections",
+        "Devices",
+        "Edges",
+        "Roles",
+        "Timers",
+        "Triggers",
+        "Users"
+    ],
+    "author": {
+        "email": "geoff.bruce-payne@inmarsat.com"
+    },
+    "clouds": [],
+    "description": "A set of microservices and data stores for communicating with remote IoT devices using Inmarsat's IsatData Pro global satellite service.",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://i.imgur.com/mYSWljV.jpg",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "inmarsat",
+        "satellite",
+        "idp",
+        "isatdata pro"
+    ],
+    "license": "Apache 2.0",
+    "name": "inmarsat-idp-network-clearblade",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
