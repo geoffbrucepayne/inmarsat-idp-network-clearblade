@@ -1,0 +1,116 @@
+{
+    "items": [],
+    "name": "idp_mobiles",
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "mobile_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "access_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_message",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_registration",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "modem_type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "modem_product_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "modem_hw_version",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "modem_sw_version",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "broadcast_ids",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_wakeup_period",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_wakeup_seconds",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_wakeup_offset",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "satellite_beam",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_lat",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_lng",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_alt",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "edge_association",
+            "ColumnType": "uuid",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_associations",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
