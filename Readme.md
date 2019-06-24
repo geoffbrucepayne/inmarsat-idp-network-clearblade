@@ -3,7 +3,7 @@
 
 ## Overview
 
-A set of microservices and data stores for communicating with remote IoT devices using Inmarsat&#39;s IsatData Pro global satellite service.
+A set of microservices and data stores for communicating with remote IoT devices using Inmarsat&#39;s [IsatData Pro](https://www.inmarsat.com/service/isatdata-pro/) global satellite service.  You may register with Inmarsat as a [developer](https://developer.inmarsat.com/technology/idp/).
 
 This is an ipm package, which contains one or more reusable assets within the ipm Community. The 'package.json' in this repo is a ipm spec's package.json, [here](https://docs.clearblade.com/v/3/6-ipm/spec), which is a superset of npm's package.json spec, [here](https://docs.npmjs.com/files/package.json).
 
