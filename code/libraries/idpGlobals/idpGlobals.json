@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "log",
+    "description": "Globals and helper functions for IDP",
+    "name": "idpGlobals",
+    "visibility": "system"
+}
