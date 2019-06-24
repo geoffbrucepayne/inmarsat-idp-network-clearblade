@@ -1,0 +1,8 @@
+{
+    "description": "Polls the Inmarsat IDP gateway for new messages periodically",
+    "frequency": 20,
+    "name": "pollReturnMessages",
+    "repeats": -1,
+    "service_name": "idpGetReturnMessages",
+    "start_time": "2019-06-24T13:20:45.004Z"
+}
