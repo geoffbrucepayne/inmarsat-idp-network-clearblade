@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade,idpGlobals",
+    "description": "Notifications of relevant errors or events from the IDP network",
+    "name": "idpNotifications",
+    "visibility": "system"
+}
