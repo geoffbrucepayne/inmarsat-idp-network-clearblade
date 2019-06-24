@@ -1,0 +1,17 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemCreated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "collectionId": "9af5b6cf0bd898a5cc85fb9ed1ad01",
+        "collectionName": "IdpMobiles"
+    },
+    "name": "newMobile",
+    "service_name": "idpMobileCollectionMonitor"
+}
