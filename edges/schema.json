@@ -1,0 +1,14 @@
+{
+    "columns": [
+        {
+            "ColumnName": "last_seen_os",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_seen_architecture",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
