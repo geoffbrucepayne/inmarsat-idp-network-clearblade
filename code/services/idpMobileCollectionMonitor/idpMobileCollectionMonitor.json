@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "log,clearblade,idpGlobals,idpNotifications,idpMessagingApi,idpCollections",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "idpMobileCollectionMonitor",
+    "params": [
+        "{\n  \"items\": [\n    {\n      \"item_id\": \"5e5c8d80-3582-44b9-b2bd-d0d5b13ff32b\"\n    }\n  ]\n}"
+    ],
+    "run_user": ""
+}
