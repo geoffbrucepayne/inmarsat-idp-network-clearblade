@@ -1,0 +1,17 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemCreated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "collectionId": "b0fbb6cf0b94cddbae869bbaff1b",
+        "collectionName": "IdpRawMessages"
+    },
+    "name": "newReturnMessage",
+    "service_name": "idpMoParser"
+}
