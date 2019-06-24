@@ -1,0 +1,8 @@
+{
+    "description": "Polls the Inmarsat IDP gateway for progression of submitted messages",
+    "frequency": 30,
+    "name": "pollForwardStatuses",
+    "repeats": -1,
+    "service_name": "idpGetForwardStatuses",
+    "start_time": "2019-06-06T21:56:43Z"
+}
