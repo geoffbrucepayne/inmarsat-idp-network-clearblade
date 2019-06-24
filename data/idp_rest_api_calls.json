@@ -1,0 +1,61 @@
+{
+    "items": [],
+    "name": "idp_rest_api_calls",
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "api_operation",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "call_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "success",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "error_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "error_desc",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "messages_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "more_messages",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "next_start_utc",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "next_start_id",
+            "ColumnType": "bigint",
+            "PK": false
+        },
+        {
+            "ColumnName": "access_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
