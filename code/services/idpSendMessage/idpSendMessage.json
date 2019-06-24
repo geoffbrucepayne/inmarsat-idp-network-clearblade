@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "log,clearblade,idpGlobals,idpMessagingApi,idpCollections,idpNotifications",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "idpSendMessage",
+    "params": [
+        "{\n  \"MobileID\": \"01459438SKYFEE3\",\n  \"Payload\": {\n    \"SIN\": 0,\n    \"MIN\": 72,\n    \"Name\": \"requestLocation\",\n    \"IsForward\": true,\n    \"Fields\": []\n  }\n}"
+    ],
+    "run_user": ""
+}
