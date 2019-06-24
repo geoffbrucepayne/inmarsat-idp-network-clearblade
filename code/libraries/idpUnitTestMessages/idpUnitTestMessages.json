@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "idpGlobals,BufferNodeJs",
+    "description": "Set of messages used for idpUnitTest",
+    "name": "idpUnitTestMessages",
+    "visibility": "system"
+}
