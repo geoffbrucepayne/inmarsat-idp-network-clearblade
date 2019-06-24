@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "log,http,idpGlobals,idpNotifications",
+    "description": "Implements the Inmarsat IDP Messaging API",
+    "name": "idpMessagingApi",
+    "visibility": "system"
+}
