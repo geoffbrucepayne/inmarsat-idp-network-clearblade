@@ -1,0 +1,121 @@
+{
+    "items": [],
+    "name": "idp_raw_messages",
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "mobile_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "access_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "msg_id",
+            "ColumnType": "bigint",
+            "PK": false
+        },
+        {
+            "ColumnName": "msg_sin",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "msg_min",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "msg_size_ota",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "mo_msg",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "mo_processed",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_status_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_status_desc",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_status_timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_wakeup_period",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_scheduled_send",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_is_closed",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_refno",
+            "ColumnType": "bigint",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_error_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_error_desc",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "msg_payload_raw",
+            "ColumnType": "blob",
+            "PK": false
+        },
+        {
+            "ColumnName": "msg_payload_json",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "user_msg_id",
+            "ColumnType": "bigint",
+            "PK": false
+        },
+        {
+            "ColumnName": "mt_wakeup_seconds",
+            "ColumnType": "int",
+            "PK": false
+        }
+    ]
+}
