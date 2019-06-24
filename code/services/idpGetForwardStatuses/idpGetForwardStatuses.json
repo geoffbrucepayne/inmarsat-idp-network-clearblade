@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "log,clearblade,idpGlobals,idpMessagingApi,idpCollections,idpNotifications",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "idpGetForwardStatuses",
+    "params": [
+        "{}"
+    ],
+    "run_user": ""
+}
